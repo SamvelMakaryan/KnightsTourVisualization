@@ -28,5 +28,7 @@ Knight's Tour is a C++ program that visualizes the solution to the Knight's Tour
 Here sre some screenshots.
 
 ### 8x8 chessboard
+![Screenshot from 2023-10-24 22-14-53](https://github.com/SamvelMakaryan/KnightsTourVisualization/assets/123547362/e4dda8d1-4196-4393-8cf0-76f22dfd347d)
 
 ### 16x16 chessboard
+![Screenshot from 2023-10-24 22-17-20](https://github.com/SamvelMakaryan/KnightsTourVisualization/assets/123547362/dca5c55c-1716-4ab1-bcc0-85dc92592bfa)
